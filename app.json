@@ -1,7 +1,8 @@
 {
   "expo": {
     "name": "Paranormath",
-    "slug": "Paranormath",
+    "slug": "paranormath",
+    "owner": "zefrastic",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,7 +25,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "zefrastic.paranormath"
     },
     "web": {
       "favicon": "./assets/favicon.png"
