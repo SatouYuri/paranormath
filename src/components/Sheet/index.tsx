@@ -1,13 +1,12 @@
-import { View } from 'react-native';
 import Attributes from '../Attributes'
-import { SheetContainer } from "./styles";
+import { SheetContainer, CharName } from "./styles";
 
 export default function Sheet() {
   return (
-    <View>
-      <SheetContainer>
-        <Attributes/>
-      </SheetContainer>
-    </View>
+    <SheetContainer>
+      <CharName>ISAAC NICARELLI DOS SANTOS SILVA</CharName>
+      <Attributes/>
+      <CharName>INSERIR STATUS AQUI</CharName>
+    </SheetContainer>
   );
 }

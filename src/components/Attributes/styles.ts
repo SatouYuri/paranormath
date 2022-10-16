@@ -1,9 +1,10 @@
 import styled from "styled-components";
 
 export const AttributeContainer = styled.div`
-  @import url('https://fonts.googleapis.com/css2?family=Archivo:wght@600&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
   display: flex;
   justify-content: center;
+  height: 44vh;
 `;
 
 export const AttributeChart = styled.img`
@@ -44,9 +45,9 @@ export const AttributeValuesRow3 = styled.div`
 export const Agi = styled.h1`
   z-index: 1;
   color: white;
-  margin: 5vh 0 0 0;
+  margin: 6.5vh 0 0 0;
   font-size: 5vh;
-  font-family: 'Archivo', sans-serif;
+  font-family: 'Special Elite', sans-serif;
 `;
 
 
@@ -55,7 +56,7 @@ export const ForInt = styled.h1`
   color: white;
   margin: 3vh 0 0 0;
   font-size: 5vh;
-  font-family: 'Archivo', sans-serif;
+  font-family: 'Special Elite', sans-serif;
 `;
 
 export const PreVig = styled.h1`
@@ -63,5 +64,5 @@ export const PreVig = styled.h1`
   color: white;
   margin: 10vh 0 0 0;
   font-size: 5vh;
-  font-family: 'Archivo', sans-serif;
+  font-family: 'Special Elite', sans-serif;
 `;
