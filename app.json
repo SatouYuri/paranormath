@@ -26,7 +26,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "zefrastic.paranormath"
+      "package": "com.zefrastic.paranormath"
     },
     "web": {
       "favicon": "./assets/favicon.png"
